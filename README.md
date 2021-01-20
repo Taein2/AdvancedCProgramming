@@ -64,7 +64,7 @@ char 는 동적할당을 하였습니다. int와 double은 char 로 파일을 �
 
 ![image](https://user-images.githubusercontent.com/66376774/105230921-6bbbc300-5ba9-11eb-8fd2-d6c89b99ccd2.png)
 
-3-2. 복수 전공 취소
+### 3-2. 복수 전공 취소
 
 ![image](https://user-images.githubusercontent.com/66376774/105230925-6d858680-5ba9-11eb-8999-c48081ee4eae.png)
 
@@ -78,11 +78,11 @@ char 는 동적할당을 하였습니다. int와 double은 char 로 파일을 �
 
 ![image](https://user-images.githubusercontent.com/66376774/105230935-71190d80-5ba9-11eb-9f6b-d18402739a4e.png)
 
-3-3. 검색하기
+### 3-3. 검색하기
 전공 개수로 검색 기능
 
 ![image](https://user-images.githubusercontent.com/66376774/105230942-724a3a80-5ba9-11eb-8586-d2f0b4bfb8ec.png)
 
-3-4. 전체 출력
+### 3-4. 전체 출력
 
 ![image](https://user-images.githubusercontent.com/66376774/105230948-7413fe00-5ba9-11eb-9e72-fe7d8f7cd462.png)
